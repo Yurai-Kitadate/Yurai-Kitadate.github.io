@@ -1,28 +1,22 @@
 baseURL = "https://yurai-kitadate.github.io/"
-languageCode = "zh-cn"
-title = "MeiK's blog"
+languageCode = "ja"
+title = "Tk's blog"
 theme = "github-style"
 googleAnalytics = "UA-123456-789"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-  author = "MeiK"
-  description = "In solitude, where we are least alone."
-  github = "MeiK2333"
-  facebook = "MeiK2333"
-  twitter = "MeiK2333"
-  linkedin = "MeiK2333"
-  instagram = "MeiK2333"
-  tumblr = "MeiK2333"
-  email = "meik2333@gmail.com"
-  url = "https://meik2333.com"
-  keywords = "blog, google analytics"
+  author = "Tk"
+  description = "Hello there👋"
+  github = "Yurai-Kitadate"
+  twitter = "tk_onl"
+  url = "https://yurai-kitadate.github.io/"
   rss = true
   lastmod = true
   userStatusEmoji = "😀"
   favicon = "/images/github.png"
-  location = "China"
+  location = "Japan"
   enableGitalk = true
 
   [params.gitalk]
@@ -40,11 +34,6 @@ pygmentsUseClasses = true
 
   [[params.links]]
     title = "Link"
-    href = "https://github.com/meik2333"
-  [[params.links]]
-    title = "Link2"
-    href = "https://meik2333.com"
-    icon = "https://meik2333.com/images/avatar.png"
-
+    href = "https://github.com/Yurai-Kitadate"
 [frontmatter]
     lastmod = ["lastmod", ":fileModTime", ":default"]
